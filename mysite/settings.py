@@ -25,7 +25,7 @@ SECRET_KEY = 't-eq6r61o&miva_9wpw0h=&+tgmsrtv#xq^bxxu45e@1!$2!3q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<your_username>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'ReturningCranes.pythonanywhere.com']
 
 
 # Application definition
